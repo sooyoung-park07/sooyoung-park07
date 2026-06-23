@@ -76,6 +76,7 @@ Computational Social Science
 - **BERT와 GPT로 배우는 자연어처리** - Natural Language Processing with BERT and GPT
 - **한권으로 끝내는 실전 파인튜닝** - Practical Fine-Tuning in One Book
 - **AI 에이전트 엔지니어링** - AI Agent Engineering
+- **지옥에서 온 문서 관리자 깃&깃허브 입문** - Git & GitHub Introduction
 
 ## 💻 Tech Stack
 
